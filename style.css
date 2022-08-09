@@ -1,0 +1,14 @@
+h1
+{
+	color: black; 
+	font-size: 40px;
+}
+.body_backgorund {
+background-color: bisque;
+}
+
+#myCanvas{
+background-color: white;
+border-width: 10px;
+border-style: ridge;
+}
